@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acf8ffd6-7a0d-4258-a304-6f26f00accd2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bookmarks/account/templates/account/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmarks/account/templates/account/register_done.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookmarks/account/templates/account/edit.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmarks/account/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarks/account/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bookmarks/account/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarks/account/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookmarks/account/templates/registration/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarks/account/templates/registration/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmarks/account/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarks/account/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bookmarks/account/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarks/account/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bookmarks/account/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarks/account/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmarks/bookmarks/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarks/bookmarks/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmarks/bookmarks/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarks/bookmarks/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bookmarks/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarks/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +32,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Загрузки/Django-3-by-Example-master/Chapter04/bookmarks/account/templates/account/login.html" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Загрузки/Django-3-by-Example-master/Chapter04/bookmarks/account/views.py" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
