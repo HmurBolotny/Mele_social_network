@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acf8ffd6-7a0d-4258-a304-6f26f00accd2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bookmarks/account/authentication.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmarks/account/migrations/0001_initial.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmarks/bookmarks/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarks/bookmarks/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmarks/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarks/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
